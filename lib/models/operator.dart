@@ -20,7 +20,7 @@ class Operators with ChangeNotifier {
       Parser p = Parser();
       Expression expression = p.parse(finalUserinput);
       double eval = expression.evaluate(EvaluationType.REAL, ContextModel());
-      output = eval.toStringAsPrecision(2);
+      output = eval.toStringAsFixed(finalUserinput.contains('.') ? 2 : 0);
       notifyListeners();
     } catch (e) {
       output = 'Error';

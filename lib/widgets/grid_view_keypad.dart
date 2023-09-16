@@ -93,6 +93,7 @@ class _GridViewKeyPadState extends State<GridViewKeyPad> {
                         operators.input = '';
                         operators.previousAnswer = operators.output;
                         operators.output = '0';
+                        operators.onCalc = true;
                         break;
                       case '<-':
                         if (operators.output == 'Infinity' ||
