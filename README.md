@@ -15,6 +15,6 @@ Resources used ->  Design -https://dribbble.com/shots/14709020-Calculator
                             - font_awesome
 
 <img src = "https://github.com/PiyushYadv/calculay/blob/main/assets/LightDark.gif" height = 500px width = 250px>
-<img srcc = "https://github.com/PiyushYadv/calculay/blob/main/assets/Calculations.gif" height = 500px width = 250px>
+<img srcc = "https://github.com/PiyushYadv/calculay/blob/main/assets/Calculations.gif">
 
 
