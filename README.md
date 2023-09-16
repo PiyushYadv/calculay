@@ -13,3 +13,6 @@ Resources used ->  Design -https://dribbble.com/shots/14709020-Calculator
                             - provider
                             - flutter_launcher_icons
                             - font_awesome
+
+![](https://github.com/PiyushYadv/calculay/tree/main/assets/LightDark.gif)
+![](https://github.com/PiyushYadv/calculay/tree/main/assets/Calculation.gif)
