@@ -2,7 +2,7 @@
 
 A Calculator made using flutter.
 
-It can perform simple arithmetics like additon,subtraction,multiplication,division. 
+It can perform simple arithmetics like addition,subtraction,multiplication,division. 
 
 Can find percentage.
 
