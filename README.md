@@ -17,4 +17,4 @@ Resources used ->  Design -https://dribbble.com/shots/14709020-Calculator
 ![](https://github.com/PiyushYadv/calculay/blob/main/assets/Calulations.gif)
 
 
-![](https://github.com/PiyushYadv/calculay/tree/main/assets/LightDark.gif)
+![](https://github.com/PiyushYadv/calculay/blob/main/assets/LightDark.gif)
