@@ -12,7 +12,9 @@ Decimal,All Clear and Delete is also provided.
 
 Light mode and Dark mode is also provided.
 
-Resources used ->  Design - https://dribbble.com/shots/14709020-Calculator
+Resources used ->  
+
+                   Design - https://dribbble.com/shots/14709020-Calculator
 
                    Packages - math_expression
                             - provider
