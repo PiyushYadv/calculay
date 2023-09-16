@@ -15,4 +15,6 @@ Resources used ->  Design -https://dribbble.com/shots/14709020-Calculator
                             - font_awesome
 
 ![](https://github.com/PiyushYadv/calculay/blob/main/assets/Calulations.gif)
+
+
 ![](https://github.com/PiyushYadv/calculay/tree/main/assets/LightDark.gif)
