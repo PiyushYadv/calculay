@@ -14,9 +14,8 @@ Resources used ->  Design -https://dribbble.com/shots/14709020-Calculator
                             - flutter_launcher_icons
                             - font_awesome
 
-<img src = "https://github.com/PiyushYadv/calculay/blob/main/assets/darkmode.jpg" height = 500px width = 250 px>
 <img src = "https://github.com/PiyushYadv/calculay/blob/main/assets/LightDark.gif" heigh = 500px width = 250px>
-<img src = "https://github.com/PiyushYadv/calculay/blob/main/assets/Calulations.gif" heigh = 500px width = 250px>
+<img src = "https://github.com/PiyushYadv/calculay/blob/main/assets/Calulations.gif">
 
 
 
