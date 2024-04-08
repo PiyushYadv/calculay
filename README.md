@@ -2,15 +2,13 @@
 
 A Calculator made using flutter.
 
-It can perform simple arithmetics like addition,subtraction,multiplication,division. 
+Perform simple arithmetics like addition,subtraction,multiplication,division, percentages. 
 
-Can find percentage.
+Can change a positive number to negative number and vice versa with just a button.
 
-Can change a positive number to negative number and vice versa.
+Decimal,All Clear and Delete is there for convenience.
 
-Decimal,All Clear and Delete is also provided.
-
-Light mode and Dark mode is also provided.
+Light mode and Dark mode is also provided for user preference.
 
 Resources used ->  
 
